@@ -1,16 +1,75 @@
-## Hi there 👋
+<div id="header" align="center">
+    <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" height="200"/>
+</div>
 
-<!--
-**mohamedhu303/mohamedhu303** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+    <img src="https://readme-typing-svg.herokuapp.com?color=cyan&size=32&center=true&vCenter=true&width=600&height=50&lines=Hi+there,+I'm+Mohamed+Hussien+👨‍💻+👋" alt="Headline" />
+</div>
 
-Here are some ideas to get you started:
+<p align="center">
+    <a href="https://github.com/mohamedhu303/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Full+Stack+Web+Developer;Software+Engineer"></a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- ======= About Section ======= -->
+
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> About Me:
+
+- Passionate, fast learner web developer.
+- Improved skills during internships at the Information Technology Institute (ITI), DEPI, and ALX.
+- I aim to grow into a senior developer who can lead and mentor other software developers.
+
+<!-- ======= End About Section ======= -->
+
+<!-- ======= Web Skills Section ======= -->
+
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="20"><b> Web Skills</b>
+
+- Experience in core PHP and C# programming.
+- Experience in HTML5, CSS3, and JavaScript.
+- Familiar with frameworks such as React.js, .Net, and Laravel.
+- Knowledge of front-end and back-end development processes.
+- Experience in Git and GitHub for version control and collaboration.
+- Strong understanding of database design, SQL queries, MySQL, and Microsoft SQL server.
+- Excellent understanding of OOP, Architecture Design Patterns, and SOLID Principles.
+
+<!-- ======= End Web Skills Section ======= -->
+
+<!-- ======= Github Stats Section ======= -->
+
+<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
+
+<p align="center">
+    <img src="https://komarev.com/ghpvc/?username=Mohamed&Hussien&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
+
+<div align="center">
+    <a href="https://github.com/mohamedhu303">
+        <img width="450" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohamed&Hussien&size_weight=0.2&count_weight=0.5&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=6&layout=compact&border_color=61dafb&hide_border=true" alt="Top Languages" />
+    </a>
+</div>
+
+<!-- ======= End Github Stats Section ======= -->
+
+<!-- ======= Languages and Tools Section ======= -->
+
+<h2 align="center">Languages and Tools</h2> 
+<p align="center">
+    <img width="300px" src="https://skillicons.dev/icons?i=html,css,bootstrap,js,react,cs,dotnet,php,laravel,&perline=3" />
+</p>
+
+<!-- ======= End Languages and Tools Section ======= -->
+
+<!-- ======= Connect Section ======= -->
+
+## 🙋‍♀️ Let's Connect
+
+<p align="center">
+	<a href="https://www.linkedin.com/in/mohamedhussien303/"><img src="https://img.icons8.com/bubbles/75/000000/linkedin.png" alt="LinkedIn" ></a>
+  <a href="mailto:dev.mohamedfawzi@gmail.com"><img src="https://img.icons8.com/bubbles/75/000000/gmail.png" alt="Gmail" /></a>
+</p>
+
+<!-- ======= End Connect Section ======= -->
+
+<h3 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+✌️;+Shoot+me+a+message+on+LinkedIn!;I'm+always+down+to+collab+:)" />
+</h3>
