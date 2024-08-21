@@ -16,7 +16,7 @@
 
 - Passionate, fast learner web developer.
 - Improved skills during internships at the Information Technology Institute (ITI), DEPI, and ALX.
-- I aim to grow into a senior developer who can lead and mentor other software developers.
+- I aim to become a senior developer who can lead and mentor other software developers.
 
 <!-- ======= End About Section ======= -->
 
@@ -44,7 +44,7 @@
 
 <div align="center">
     <a href="https://github.com/mohamedhu303">
-        <img width="450" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohamed&Hussien&size_weight=0.2&count_weight=0.5&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=6&layout=compact&border_color=61dafb&hide_border=true" alt="Top Languages" />
+        <img width="450" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedhu303&size_weight=0.2&count_weight=0.5&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=9&layout=compact&border_color=61dafb&hide_border=true" alt="Top Languages" />
     </a>
 </div>
 
